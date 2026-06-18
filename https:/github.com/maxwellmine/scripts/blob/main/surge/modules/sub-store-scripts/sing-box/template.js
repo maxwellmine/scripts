@@ -1,0 +1,1 @@
+https://github.com/maxwellmine/scripts/blob/main/surge/modules/sub-store-scripts/sing-box/template.js
